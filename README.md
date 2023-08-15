@@ -1,3 +1,6 @@
+
+![logo](github_banner.svg)
+
 <h1 align="center">Hi 👋, I'm Pratik Kumar Sarangi</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
